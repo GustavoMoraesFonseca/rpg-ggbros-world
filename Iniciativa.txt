@@ -1,0 +1,45 @@
+Iniciativa
+
+Anastácia  4x
+Ivellios   6x          
+Gina       6x          
+Altraz      9
+
+Leonnard 17
+Diego 15
+Ulamog 10
+Akmenos 3
+Teodorico 1
+
+Irmao      19     15
+
+soma total : 4 <= 15
+
+Zed
+Efraim  
+Marco
+Ivellios
+Shui
+
+
+Shui
+Ivellios
+bixo     300
+
+
+GG Colina Chuby Bany com gnomos
+
+GG Pedra pegar estatua de pedra no mar
+
+GG Gelo Arremesso de Pedra do tamanho de Funsca
+
+GG Fogo portal para pegar elemental de fogo
+
+GG Nuvens Jogos de azar
+
+GG Tempestade contar piadas boas sem o magoar
+
+docker run --rm gustavomoraesfonseca/lognaut-rota-v1:latest --user gustavomoraesfonseca --password @njotyrael swarmpit/agent:123 swarmpit/agent:dddd
+
+ docker run --rm gustavomoraesfonseca/lognaut-rota-v1 --user gustavomoraesfonseca --password @njotyrael gustavomoraesfonseca/lognaut-rota-v1:latest
+ 

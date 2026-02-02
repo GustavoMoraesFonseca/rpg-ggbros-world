@@ -1,0 +1,116 @@
+Ervas do Centro
+
+1 - Planta escama
+	Gosto:
+	  Batata chips e crocante
+
+	Beneficios:
+	  Nutrientes suficiente para um dia:
+
+	Efeito colateral:
+	  Cria escamas nos braços e pernas		
+
+2 - Planta gosma 
+	Gosto:
+	  Liguido gosmento muito doce
+
+	Beneficios:
+	  Repelente de monstros
+
+	Efeito colateral:
+	  gruda na lingua
+
+3 - Planta Inversa
+	Gosto:
+	  Doce
+
+	Beneficios:
+	  Cura e cicatriza ferimentos (CD 12 para curar "constituiçao")
+
+	Efeito colateral:
+	  Vê todas as cores inversas
+
+4 - Planta dorminhoca
+	Gosto:
+	  salgado
+
+	Beneficios:
+	  Fará o usuario dormir até seu corpo estar totalmente descansado
+	
+	Efeito colateral:
+	  Só conseguirá dormir novamente se a comer
+		
+5 - Planta gelatinosa
+	Gosto:
+ 	  Parecido com usa
+
+	Beneficios:
+	  Comestivel:
+            Semente usada para curar venenos
+
+	Efeito colateral:
+          Lingua Roxa
+
+6 - Planta harden
+	Gosto:
+	  halls preto
+
+	Beneficios/Efeito colateral:
+	  Deixa o usuario excitado
+
+7 - Planta Aniquilação Sensorial
+	Beneficios:
+	  Afia qualquer lamina
+
+	Efeito colateral:
+ 	  Perde o tato, olfato e paladar
+
+8 - Planta queimadura
+	Gosto:
+	  Ardente
+
+	Beneficios:
+	  Usada para colocar nas pontas das flechas (d4 de dano ignio)
+
+	Efeito colateral
+	  Lingua ardente e barriga em chamas
+
+9 - Planta acida
+	Gosto:
+	  Muito azedo
+
+	Beneficios:
+	  Usada para atrair animais
+
+	Efeito colateral
+	  Vicio a frutinha (se o usuario não puder mais comer ele ficará agressivo e atacará a criatura mais proxima)
+
+10 - Planta defecal
+	Gosto:
+	  Pouco amargo, no fim doce e muito dura
+
+	Beneficios:
+	  Você sente mais saudável (+1 de false life)
+
+	Efeito colateral
+	  Cheiro de estrume e textura
+
+11 - Planta bonafonte
+	Gosto:
+	  Parece uma pinha e é bem crocante
+
+	Beneficios:
+	  Você se sente mais leve (Vantagens em todos os testes de Destreza por meia hora)
+
+	Efeito colateral:
+	  Você n sente seus pés
+
+12 - Planta Pelo
+	Gosto:	
+	  Amarga
+
+	Beneficios:
+	  usada para isca de pesca
+ 
+	Efeito colateral:
+	  Todos os seus pelos ficam igual a flor 

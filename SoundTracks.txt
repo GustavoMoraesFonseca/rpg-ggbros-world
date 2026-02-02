@@ -1,0 +1,23 @@
+D&D - SoundTracks
+
+//Taverna 
+!play https://www.youtube.com/watch?v=wLlovxa3VJ0&t=14s
+
+//Cidade ambiente
+!play https://www.youtube.com/watch?v=WJrqwa6tMQY&list=PLbHUA-o_5dgJbOXwtdVx--gTnmWfiyyys&index=1
+
+//Jungle day
+!play https://www.youtube.com/watch?v=5Jzp5H4mQVE&list=PLbHUA-o_5dgJbOXwtdVx--gTnmWfiyyys&index=4
+
+//Sea
+!play https://www.youtube.com/watch?v=4W2EfqdOmiI&list=PLbHUA-o_5dgJbOXwtdVx--gTnmWfiyyys&index=6
+
+//Dungeon Song
+!play https://www.youtube.com/watch?v=OKlEcZ_2dsI&list=PLbHUA-o_5dgJbOXwtdVx--gTnmWfiyyys&index=7
+
+//Dark Cave 
+!play https://www.youtube.com/watch?v=H0cF3t01T-w&list=PLbHUA-o_5dgJbOXwtdVx--gTnmWfiyyys&index=10
+
+//Cursed Temple
+!play https://www.youtube.com/watch?v=WEEltzTwbE4&list=PLbHUA-o_5dgJbOXwtdVx--gTnmWfiyyys&index=11
+

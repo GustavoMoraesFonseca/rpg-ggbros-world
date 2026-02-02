@@ -1,0 +1,111 @@
+PEOES
+Armadura Animada     16
+Bugurso              31
+Carniçal             34
+Quasit               58
+Diabrete             74
+Dragao Fada          82
+Dragao Cobre Filhote 107
+Dragao Cobre Latao   110
+Driade               118
+Duergar              119
+Espantalho           134
+Espectro             135
+Goblin Chefe         172
+Harpia               186
+Hipogrifo            188
+Kuo-Toa Açoite       204
+Quadrone             235
+Meio Ogro            250
+Cobra de Fogo        277
+Thri-krin            292
+Yuan-ti Sangue Puro  310
+
+CAVALOS/TORRES
+Aquanomalo             24
+Basilisco              28
+Bugurso Chefe          31
+Diabo Barbado          68
+Anquilossauro          77
+Dragao azul filhote    86
+Dragao de ouro filhote 112
+Duplice                120
+Githyanki Combatente   166
+Grell                  182
+Hobgoblin              190
+Horror-Gancho          194
+Inumano                197
+Lobisomem              211
+Manticora              215
+Megera Verde           225
+Minotauro              232
+Espectador             248
+Pantera Deslocadora    257
+Pesadelo               261
+Sabujo                 274
+Urso Coruja            298
+Yeti                   305
+Yuan Ti Mestiço        309
+
+PISPOS
+Aparicao           23
+Bulete             32
+Cambiao            33
+Barlgura           51
+Diabo Farpado      74
+Triceratopo        78
+Elementais         123/124
+Drow Guerreiro     126
+Estrangulador      139
+Giagante da Colina 161
+Golem de Carne     175
+Gorgon             177
+Homem Urso         210
+Megera da Noite    223
+Meio Dragao        226
+Otyugh             256
+Remorraz           271
+Retornado          272
+Sahuagin Barao     276
+Salamandra         278
+Slaad Vermelho     283
+Tribulo            293
+Troll              295
+Cria Vampirica     302
+Xorn               304
+Mezzoloth          313
+Zumbi Observador   316
+
+RAINHA
+Glabrezu              53
+Diabo dos ossos       72
+Dragao Azul Jovem     86
+Dragao de Prata jovem 116
+Ent                   130
+Gigante do Fogo       161
+Gigante das Nuvens    162
+Golem de Argila       174
+Slaad Cinza           284
+Abominavel Yeti       306
+Nycaloth              314
+
+REI
+Rex                 78
+Dragao Verde Jovem  96
+Dragao Bronze Jovem 102
+Drow Lolth          127
+Fomoriano           144
+Gigante do Gelo     162
+Githyanki Cavaleiro 166
+Hidra               187
+Mantor              216
+Naga Espiritual     242
+Slaad Verde         284
+
+18x
+8 1
+2 3
+2 3
+2 5
+1 9
+1 8

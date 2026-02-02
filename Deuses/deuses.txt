@@ -1,0 +1,47 @@
+NORTE
+	Yagami      - Deusa da Luz
+	Diralif     - Deusa da Natureza
+	Torina      - Deusa da Tempestade e Fertilidade
+	Reinstol    - Deus da Forja
+	Blainengar  - Deus do Sangue
+	Frivur      - Deus da Paz
+        Mynstra     - Deusa da Magia
+        Seline      - Deusa da Lua
+	
+	Heinfh      - Deus da Vingança
+	
+SUL
+	Arsuez      - Deus dos Deuses
+	Faluscia    - Deusa da Segunda Chance
+	Htoht       - Deus da Vida e Sabedoria
+	Oisinóid    - Deus da Gandaia
+	Simêt       - Deusa da Justiça
+	
+	Etforsátika - Deus do Inferno
+	
+OESTE
+	Gathus      - Deus da riqueza
+	Gehagges    - Deusa da inveja
+	Mândrokus   - Deus do Crime e Blefe
+	Áfornys     - Deusa do Amor
+	Cornóvus    - Deus da Tristeza e Bebida 
+	Církus      - Deus da Doença e Maldição
+	Fooitus     - Deus da Batalha
+	Bânbada     - Deusa da Ganância
+	
+	Astafar     - Deus da Fúria
+	Brotufur    - Deus da Oportunidade
+	Cifirur     - Deus da Mentira
+	
+	Hávadir     - Deus da Destruição e Medo
+
+LESTE
+	Halt        - Deusa do Fogo
+	Bleitur     - Deus da Água
+	Vasviri     - Deusa do Ar
+	Joro        - Deus da Terra
+
+	Nídur       - Deusa da Morte
+
+CENTRO
+	Poder

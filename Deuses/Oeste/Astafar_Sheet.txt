@@ -1,0 +1,34 @@
+Astafar 
+
+Medium Semi-Deus, caótico neutro
+-----------------------------------------------
+CA = 32 (Armadura Natural + escudo)
+HP = 375(24d + 250) 69
+Speed 60 ft.
+-----------------------------------------------
+  For   Dex     Cons    Int   Wis   Cha
+40(+15) 30(+10) 30(+10) 8(-1) 9(-1) 10(0)
+-----------------------------------------------
+Saving Throws For +22, Cons +17
+Skills Atletismo, Acrobacia +22
+	   Intimidação +7
+Challenge 25(75.000 XP)
+-----------------------------------------------
+*Imunidade a Dano* contundente, cortante e perfu-
+rante de ataques não mágicos
+*Sentidos*  
+Resistência a armas mágicas
+Fúrias: 7x +6
+
+ - Vantagem na iniciativa
+ - Critico Brutal(
+ Quando crítico jogar o dado mais 3x e multiplicar por 2
+)
+
+Actions
+-----------------------------------------------
+Multiattack. Dois ataques com a Espada.
+
+*Espada* Melee Divane Weapon Attack: +22 to hit,
+reach 7 ft., one target. Hit: 23 (2d8 + 15) 
+dano mágico e cortante.

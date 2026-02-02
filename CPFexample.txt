@@ -1,0 +1,10 @@
+CPF Leonard Elric
+
+Pai                : Apholso Elric
+Mãe                : Misato Elric
+Endereço           : Barco {0495784-BC}
+Escolaridade       : Ensino Fundamental Completo
+Meio de comunicação: Null
+Bens               : Null
+
+Codigo = 63785930-GBA

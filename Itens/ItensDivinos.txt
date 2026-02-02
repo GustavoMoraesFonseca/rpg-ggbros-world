@@ -1,0 +1,81 @@
+Itens do D&D 
+
+                                                                  Itens Divinos 
+		Espada de Htoht
+
+(Espada de uma mão só)
++1 para acertar | dano: 2d8 + força + 1
+Habilidades da espada:
+- Quando finalizar alguem cura 5 de vida
+
+		Escudo de Htoht
+	  
++2 de CA
+Habilidades do escudo:
+- +2 de sabedoria
+- Vantagens em qualquer teste relacionado a sabedoria 
+
+
+		Arco de Arzuez
+
++1 para acertar | dano: 3d8 + destreza + 1 (Dano Radiante)
+Habilidades do Arco:
+- O empunhador do arco ganha proeficiencia com arcos;
+- O empunhador ganha Arquearia.
+
+
+		Capa de Faluscia
+
++1 de CA
+Habilidades da Capa:
+- O usuario da capa ANULA o primeiro hit tomado
+
+
+		Faixa de Simêt 
+		
+Habilidades da faixa:
+- O usuario ganha vantagem em todas as magias usadas contra eles;
+- O usuario fica cego.
+
+		Receiata para a BOA
+		
+- Cerebro de Slaad
+- Chifre de Infero
+- Espinho de Basilisco
+- Um olho de Observador
+- Cabeça de Ogro
+Habilidades da BOA:
+- Voce ganha 30 em for, 30 em dex e 30 em cons (Dura 1 minuto);
+- Quem ingerir a poção sempre atacara o ser mais proximo;
+- No dia seguinte não acordara de jeito nenhum;  
+
+
+								 Itens Lendarios
+		
+
+Adaga das Almas
+
++ 1 para acertar | dano: d8 + dex + 1
+Habilidades da adaga
+(Quando matar, a alma do alvo fixa na adaga) 
+
+
+Espada do Rei : Demolidora
+
++ 1 para acertar | dano: 3d6 + for + 1 
+Habilidades da Demolidora
+(Ignora fraquezas)
+
+
+Espada de Astafar
+
++1 para acertar | dano: 2d8 + for +1 (mais um d8 se o alvo for humano ou parte humano)
+Amaldiçoada:
+- Conforme o tempo o usuário será controlado por Astafar e virá elfo se não for.
+
+Armadura de Cifirur
+
+Full Plate + 1(19), 
+Amaldiçoada:
+- Desvantagem em furtividade quando há humano ou derivados por perto(Ela brilha)
+- Conforme o tempo o usuário será controlado por Cifirur e virá elfo se não for.

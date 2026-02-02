@@ -1,0 +1,6 @@
+Saco → Casco = C
+Fio → Frio   = R
+Pano → Piano = I
+Rato → Prato = P
+Mapa → Tampa = T
+Roda → Arado = A

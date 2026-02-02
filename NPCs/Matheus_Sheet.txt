@@ -1,0 +1,20 @@
+FOR:  8 /-1
+DEX:  12/ 1
+CONS: 10/ 0
+INT:  8 /-1
+SAB:  8 /-1
+CAR:  12/ 1
+
+CA: 10
+HP: 8
+
+Equipamentos:
+	Faca: d4+1
+	Arco: d8+1
+
+Perícias:
+	Furtividade
+	Atletismo
+	
+Ações:
+	Ação Bônus para respirar direito (+d4 de Dano Radiante e cura d4)

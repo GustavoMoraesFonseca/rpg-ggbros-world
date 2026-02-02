@@ -1,0 +1,34 @@
+Barba de Bronze:
+	tripulação: Draconatos Metalicos
+	áreaDoMar: Verde
+	raça: Draconato de Bronze
+
+Varnox a herança do sal e do sangue:
+	tripulação: Draconatos Cromaticos
+	áreaDoMar: Amarelo
+	raça: Draconato Branco
+	
+Marrow Hook - A sombra do Mar:
+	tripulação: Undead
+    áreaDoMar: Vermelho
+	raça: Undead
+
+Capitão Undefined - A Fúria do Kraken:
+	tripulação: Variados
+	áreaDoMar: Azul
+	raça: Humano
+
+Velora a Estrela Nautica:
+	tripulação: Gostosas
+	áreaDoMar: Marrom
+	raça: Humana
+
+Oculthor o Tirano:
+	tripulação: Variada e Controlada
+	áreaDoMar: Cinza
+	raça: Beholder
+	
+Vraxi o Manipulador:
+	tripulação: (Mindflayers, Devoradores de Intelecto e infectados)
+	áreaDoMar: null
+	raça: Mindflayer

@@ -1,0 +1,48 @@
+Jardineiro:
+	estatua: Chapéu de aba larga e enxada
+	qdtMobs: 5
+	corArea: Verde
+	descricao:
+	crituras:
+	
+Fazendeiro:
+	estatua: Chapéu de caubói e um ancinho
+	qdtMobs: 6
+	corArea: Amarelo
+	descricao:
+	crituras:
+	
+Empregada doméstica:
+	estatua: Chapéu e vassoura
+	qdtMobs: 2
+	corArea: Branco
+	descricao:
+	crituras:
+	
+Ferreiro:
+	estatua: Avental e martelo
+	qdtMobs: 3
+	corArea: Preto
+	descricao:
+	crituras:
+	
+Mineiro:
+	estatua: Chapéu com vela e picareta
+	qdtMobs: 1
+	corArea: Roxo
+	descricao:
+	crituras:
+
+Pescador:
+	estatua: Chapéu e vara de pesca
+	qdtMobs: 7
+	corArea: Azul
+	descricao:
+	crituras:
+	
+Rainha:
+	estatua: Coroa e cetro
+	qdtMobs: 4
+	corArea: Vermelho
+	descricao:
+	crituras:
