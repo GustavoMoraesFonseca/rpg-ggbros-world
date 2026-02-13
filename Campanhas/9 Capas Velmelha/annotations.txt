@@ -1,0 +1,74 @@
+V - Cidade Lulus:      Colisium
+F - Cidade Mindur:     Borguena
+F - Cidade Gambler:    Vámolas
+F - Templo da Hope Telef
+F - Templo das Láminas da Ordem
+F - Cifirur
+
+Lulus:
+	Drops:
+		Documento: Consta que a página sobre a "espada" é só a primeira parte;
+		Carta: Carta para o prefeito de Borguena descrevendo o que entendeu da página;
+	Página:
+		Registros de que a profecia é verdadeira, uma arma, muito provável de ser uma espada com uma grande lámina, que podem ferir um deus;
+
+Mindur o Mindflayer:
+	Drops:
+		Documento:
+	Página:
+		Charada para ajudar no puzzle: 
+			"Não sou coisa, mas meço elas,
+			não existo sozinho, mas estou em tudo,
+			posso ser exato ou apenas estimado,
+			está em tudo que se conta,
+			cresce, diminui ou se soma."
+
+Gambler:
+	Página:
+		Um mapa com um grande X vermelho, em uma montanha próxima;
+	
+	
+História Pricipal
+	NPC:
+		Von Telef
+		Hope Telef
+	
+Secundária:
+	Irmãos Helsin:
+		NPC:
+			Lyra
+			Arden (Lobisomen)
+		Remover Licantropia:
+			Acônito((planta) encontrada em montanhas);
+			3 cabeças de bruxas;
+
+Helsins:
+	Licantropos:
+		Lyra & Arden Umbrey:
+			age: 18 & 16
+			race: Human
+			history: Stroven Umbrey era um eximio caçador de Licantropos, entrou nessa área pela recomendação de sua amiga Sonather e se iniciou como um Helsin. Ele formou uma familia e saiu da mansão, vivia em um cidade remota até que guardas de 
+	Vampiros:
+		Diretor Blatgar Von Travu
+	Undeads:
+		Drepur Tevus
+	Constructus:
+		Gehirn o Genio
+	Corruptores:
+		Lisa Demona
+	Bruxas:
+		Sonather Helsin
+
+Vigem entre cidades oeste:
+	Trajetos:
+		trem:
+			Colisium -> Borguena: 4 Dias
+			Colisium -> Vámolas:  2 Dias
+		estrada:
+			pé2: 22 Dias
+			montaria: 15 Dias
+			montariaRápida: 11 Dias
+		barco:
+			Colisium -> Borguena: 13 Dias
+		
+https://tabletopy.com/

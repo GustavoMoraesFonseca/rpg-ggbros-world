@@ -1,48 +1,54 @@
-Jardineiro:
-	estatua: Chapéu de aba larga e enxada
-	qdtMobs: 5
-	corArea: Verde
-	descricao:
-	crituras:
-	
-Fazendeiro:
-	estatua: Chapéu de caubói e um ancinho
-	qdtMobs: 6
-	corArea: Amarelo
-	descricao:
-	crituras:
-	
-Empregada doméstica:
-	estatua: Chapéu e vassoura
-	qdtMobs: 2
-	corArea: Branco
-	descricao:
-	crituras:
-	
 Ferreiro:
 	estatua: Avental e martelo
 	qdtMobs: 3
-	corArea: Preto
 	descricao:
-	crituras:
-	
-Mineiro:
-	estatua: Chapéu com vela e picareta
-	qdtMobs: 1
-	corArea: Roxo
+	crituras: Golem de Ferro
+	roomId: 1
+
+Empregada doméstica:
+	estatua: Chapéu e vassoura
+	qdtMobs: 2
 	descricao:
-	crituras:
+	crituras: slime bufado (dobro de vida)
+	roomId: 2
 
 Pescador:
 	estatua: Chapéu e vara de pesca
 	qdtMobs: 7
-	corArea: Azul
 	descricao:
 	crituras:
+	roomId: 3
+
+Mineiro:
+	estatua: Chapéu com vela e picareta
+	qdtMobs: 1
+	descricao:
+	crituras: Underking
+	roomId: 4
+	
+Fazendeiro:
+	estatua: Chapéu de caubói e um ancinho
+	qdtMobs: 6
+	descricao:
+	crituras: Espantalho MM
+	roomId: 5
+	
+Caldeirão:
+	roomId: 6	
+
+Aventureiro:
+	roomId: 7
 	
 Rainha:
 	estatua: Coroa e cetro
 	qdtMobs: 4
-	corArea: Vermelho
 	descricao:
-	crituras:
+	crituras: abelhas
+	roomId: 8
+	
+Jardineiro:
+	estatua: Chapéu de aba larga e enxada
+	qdtMobs: 5
+	descricao:
+	crituras: Planta Carnivora
+	roomId: 9

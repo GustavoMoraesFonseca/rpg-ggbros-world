@@ -1,0 +1,131 @@
+Tabela
+	Sides:
+		Helsins;
+		Drúidas ativistas;
+	Combate:
+		Membro do Clã Nakamura tentando matar Temujin antes seu clã o ache;
+		Assassinos enviados pela família Rodrigues;
+		Membro do Clã Fritsu enviado para matar remanecentes de Corinthios;
+		Seguidor de Blainengar(Deus do Sangue);
+		Seguidor de Heinfh(Deus da Vingança);
+		Seguidor de Reinstol(Deus da Forja);
+		Monstro do local;
+	RolePlay:
+		Membro do Clã Tarkhan buscando Temujin de volta;
+		Membro do Clã Corinthios perdido;
+		Seraphyne;
+	Eventos:
+		Pé torcido;
+		Chuva estremamente forte;
+		Estrada lamacenta ou Mar agitado;
+		Tédio;
+		Se perdeu na Jornada;
+		Viajante;
+		Quebra do transporte;
+		Vento favorável ou atalho seguro;
+
+Temujin Tarkhan
+	Connections:
+		Pai:
+			Nome: Tutei Tarkhan (AKA: Hóng Móguǐ – O Demônio Rubro)
+			Status: considerado morto após emboscada do Clã Nakamura
+		Mãe:
+			Nome: Khulan
+			Status: sequestrada (desaparecida desde o ataque ao Vale da Morte)
+		Irmão:
+			Nome: Khaimujin Tarkhan
+			Status: morto (sacrificou-se para salvar Temujin de uma esfera flamejante conjurada por um xamã inimigo)
+		Mentor:
+			Nome: Calhür, o Eremita do Pico
+			Status: vivo
+		Companheiro de Treino:
+			Nome: Hugo
+			Status: vivo
+	Clãs:
+		Tarkhan (Falcões Rubros):
+			Como Temujin fugiu de seu clã e de suas responsabilidades como príncipe e herdeiro legítimo, muitos o consideram ausente e indigno. Ainda assim, ele continua sendo o sucessor natural do clã. Sua decisão de não retornar até se tornar digno cria tensão política interna e incerteza sobre a liderança.
+		Clã Nakamura:
+			Dinastia oriental rival dos Tarkhan. Inimigos declarados de Tutei. Responsáveis pela emboscada que resultou na suposta morte do General e no sequestro de Khulan.
+	Império:
+		Império Kuzhan:
+			Potência expansionista formada por povos conquistadores e assimiladores culturais. Temujin foi soldado imperial e membro da Guilda de Artesãos de Guerra, especializando-se na forja de armas e armaduras.
+		Status Atual:
+			Ex-soldado imperial.
+			Herdeiro ausente do Clã Tarkhan.
+			Andarilho em busca de poder, honra e redenção.
+			Carrega culpa pela morte de sua tropa.
+			Movido por vingança contra os responsáveis pela morte do irmão.
+			Desconhece a existência de uma maldição adormecida em seu sangue — um poder demoníaco que desperta em momentos de fúria extrema.
+			
+Raider
+	Connections:
+		Figura Paterna/Mentor:
+			Nome: Muradin
+			Status: morto
+			Descrição: O homem que o impediu de cometer um roubo quando criança e o acolheu no templo do Deus da Paz. Foi torturado durante a invasão que mudou o destino de Raider.
+	Opositora Ideológica:
+		Nome: Seraphyne
+		Título: A Voz do Silêncio
+		Status: viva
+		Descrição: Alta representante do Deus da Paz. Defende o pacifismo absoluto e considera Raider uma heresia viva, a prova de que a violência corrompe a fé.
+	Outros Totens:
+		Descrição: Três guerreiros marcados por símbolos divinos distintos. Servem deuses que prosperam com guerra, domínio e caos.
+		Status: vivos
+		Objetivo: Eliminar Seraphyne, pois sua influência enfraquece o Deus da Paz e impede que a guerra floresça.
+		Segundo eles: “Enquanto a Voz do Silêncio viver, a guerra não florescerá.”
+	Status Atual:
+		Andarilho marcado pela fé e pela contradição.
+		Campeão relutante da violência em nome da paz.
+		Caçado ideologicamente pela própria religião.
+		Envolvido em um conflito entre deuses e seus escolhidos.
+		Destinado a alcançar paz apenas na pós-vida.
+
+Hugo Rodrigues
+	Connections:
+		Pai:
+			Nome: Aramis Rodrigues
+			Status: vivo
+			Descrição: Guerreiro e líder da Academia Rodrigues. Reconheceu o talento extraordinário de Hugo desde a infância e o treinou como sucessor.
+		Irmão:
+			Nome: José Rodrigues
+			Status: vivo
+			Descrição: Movido por inveja, denunciou Hugo falsamente, acusando-o de traição. Responsável direto por seu exílio.
+		Ancestral Marcante:
+			Nome: Athos García (posteriormente Athos Rodrigues)
+			Status: morto
+			Descrição: Fundador da linhagem. Guerreiro lendário que derrotou a frota do Barba de Bronze na “Sangrienta Batalla” e criou a Academia Rodrigues.
+		Ancestral Controverso:
+			Nome: Porthos, o Indigno
+			Status: morto
+			Descrição: Acusado de bruxaria. Realizou um pacto simultâneo com dois deuses, originando a maldição da família.
+		Mentor Posterior:
+			Nome: Calhur
+			Status: vivo
+		Entidades Divinas Envolvidas:
+			Hávadir – Deus da Destruição
+			Blainegar – Deus do Sangue
+			Descrição: Concederam — e amaldiçoaram — a família Rodrigues com o Estigma da Coroa de Espinhos.
+	Status Atual:
+		Exilado da família Rodrigues.
+		Portador da Coroa de Espinhos.
+		Guerreiro prodígio moldado por tradição e traição.
+		Determinado a retornar mais forte.
+		Destinado a confrontar o próprio sangue para assumir o comando.
+		
+Dórean
+	Connections:
+		Antigo Amigo / Atual Rival:
+			Nome: Margeretsu
+			Clã: Fritsu
+			Status: vivo
+			Descrição: Primogênito do Clã Fritsu. Amigo de infância de Dórean. Armou a morte do próprio líder para assumir o controle do clã e incriminar Dórean.
+	Clãs:
+		Fritsu:
+			Status: dominante na Ilha Tísu
+			Descrição: Rival histórico do Clã Corintios. Após a morte de seu líder, consolidou poder sob o comando de Margeretsu.
+	Status Atual:
+		Exilado da Ilha Tísu.
+		Último símbolo vivo do Clã Corintios.
+		Espadachim em constante aperfeiçoamento.
+		Movido por honra, disciplina e determinação.
+		Destinado a confrontar Margeretsu novamente.
