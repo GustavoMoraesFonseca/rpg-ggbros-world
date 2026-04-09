@@ -1,0 +1,44 @@
+Decard - Lider dos 'Clérigos Ocultos'
+
+Decard:
+  "Parece que estamos sendo amaldiçoados por um dos Deuses,
+nenhuma oração ou prese está sendo atendida dês das novas reformas
+do governador. Só nos restam 4 estátuas dos Deuses na cidade para
+pedirmos que esta maldição seja quebrada. Vejo que são guerreiros
+diferentes de nós, poderiam nos ajudar a salvar a nossa Fé?"
+
+Clérigos de cada um dos Deuses irá seguir cada um dos PJs;
+
+NOMES F:
+Elyndra
+Vaelora
+Sylphira
+Aethyra
+Ormielle
+Teryndra
+Faelune
+
+NOMES M:
+Aethon
+Vaelor
+Elyon
+Taryk
+Orien
+Kaelion
+Zareth
+
+COMBATE:
+3 Guardas;
+2 Batedores;
+1 Cavaleiro;
+
+DEUESES:
+Áfornys
+Gathus
+Yagami
+Conôvus
+
+PERGUNTAS:
+Quem eu sou?
+Como sou construído?
+Onde estou em você?

@@ -1,0 +1,21 @@
+Irmãos Helsin:
+  Menbro:
+     Lyra
+     Arden (Lobisomen)
+  Missão:
+     Remover Licantropia:
+	Ingredientes:
+	  Acônito((planta) encontrada em montanhas);
+	  3 cabeças de bruxas;
+
+        Pré-requisitos:
+          Matar o Lobsomem que te transformou;
+          Uma bruxa para fazer o ritual;
+          Ter a picareta de Gathus para abrir a porta de seu túmulo;
+
+        Ritual:
+          Encima do túmulo de Gathus;
+          Colocar as 3 cabeças das bruxas
+          e quebrar seus crânios,
+          moer com Acônito,sangue da bruxa do ritual, sangue do algo e sangue de algum parente do alvo
+          por fim os 3 beberem cada um um crânio;

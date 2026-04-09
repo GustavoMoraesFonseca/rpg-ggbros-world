@@ -1,0 +1,16 @@
+Helsins:
+	Licantropos:
+		Lyra & Arden Umbrey:
+			age: 18 & 16
+			race: Human
+			history: Stroven Umbrey era um eximio caçador de Licantropos, entrou nessa área pela recomendação de sua amiga Sonather e se iniciou como um Helsin. Ele formou uma familia e saiu da mansão, vivia em um cidade remota até que guardas de 
+	Vampiros:
+		Diretor Blatgar Von Travu
+	Undeads:
+		Drepur Tevus
+	Constructus:
+		Gehirn o Genio
+	Corruptores:
+		Lisa Demona
+	Bruxas:
+		Sonather Helsin

@@ -52,3 +52,8 @@ Jardineiro:
 	descricao:
 	crituras: Planta Carnivora
 	roomId: 9
+
+roomId: 10
+
+Saída:
+	roomId: 11

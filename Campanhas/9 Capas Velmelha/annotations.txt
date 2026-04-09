@@ -1,6 +1,6 @@
 V - Cidade Lulus:      Colisium
 F - Cidade Mindur:     Borguena
-F - Cidade Gambler:    Vámolas
+F - Cidade Gambler:    Vâmolas
 F - Templo da Hope Telef
 F - Templo das Láminas da Ordem
 F - Cifirur
@@ -14,7 +14,13 @@ Lulus:
 
 Mindur o Mindflayer:
 	Drops:
-		Documento:
+		Documento: Carta para o Governador de Vâmola:
+		   Conteúdo: "Caro Gambler, minha página me parece ser um enigma para alguma coisa, estava em uma língua a muito tempo esquecida, mas
+                           minha cidade conseguiu traduzi-la. Lulus já te informou de algo? Ele já deveria ter encontrado sua página e enviado 
+                           suas informações por escrito. A. Mindur";
+
+                Ticket: Um vagão do trem reservado em uma passagem;
+                Itens: Fichas de casino;
 	Página:
 		Charada para ajudar no puzzle: 
 			"Não sou coisa, mas meço elas,
@@ -31,44 +37,10 @@ Gambler:
 História Pricipal
 	NPC:
 		Von Telef
-		Hope Telef
-	
-Secundária:
-	Irmãos Helsin:
-		NPC:
-			Lyra
-			Arden (Lobisomen)
-		Remover Licantropia:
-			Acônito((planta) encontrada em montanhas);
-			3 cabeças de bruxas;
+		Hope Telef        
 
-Helsins:
-	Licantropos:
-		Lyra & Arden Umbrey:
-			age: 18 & 16
-			race: Human
-			history: Stroven Umbrey era um eximio caçador de Licantropos, entrou nessa área pela recomendação de sua amiga Sonather e se iniciou como um Helsin. Ele formou uma familia e saiu da mansão, vivia em um cidade remota até que guardas de 
-	Vampiros:
-		Diretor Blatgar Von Travu
-	Undeads:
-		Drepur Tevus
-	Constructus:
-		Gehirn o Genio
-	Corruptores:
-		Lisa Demona
-	Bruxas:
-		Sonather Helsin
 
-Vigem entre cidades oeste:
-	Trajetos:
-		trem:
-			Colisium -> Borguena: 4 Dias
-			Colisium -> Vámolas:  2 Dias
-		estrada:
-			pé2: 22 Dias
-			montaria: 15 Dias
-			montariaRápida: 11 Dias
-		barco:
-			Colisium -> Borguena: 13 Dias
+
+
 		
 https://tabletopy.com/

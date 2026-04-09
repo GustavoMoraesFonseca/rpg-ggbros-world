@@ -1,0 +1,11 @@
+Viagem entre cidades oeste:
+	Trajetos:
+		trem:
+			Colisium -> Borguena: 4 Dias
+			Colisium -> Vámolas:  2 Dias
+		estrada:
+			pé2: 22 Dias
+			montaria: 15 Dias
+			montariaRápida: 11 Dias
+		barco:
+			Colisium -> Borguena: 13 Dias
