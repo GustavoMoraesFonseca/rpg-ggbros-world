@@ -1,0 +1,9 @@
+Armadura (Peitoral de Placa 17 AC)
+Criador: Fogo Elemental. Este item é quente ao toque e quaisquer partes metálicas são feitas de ferro negro. Sigilos de chamas cobrem sua superfície. Tons de vermelho e laranja são as cores predominantes.
+História: Religiosa. Este item era usado em cerimônias religiosas dedicadas a uma divindade específica. Possui símbolos sagrados incrustados. Os seguidores do deus podem tentar persuadir seu dono a doá-lo a um templo, roubá-lo para si ou celebrar seu uso por um clérigo ou paladino da mesma divindade.
+Peculiaridade: Frágil. O item se esfarela, desfia, lasca ou racha levemente quando empunhado, vestido ou ativado. Essa peculiaridade não afeta suas propriedades, mas se o item tiver sido muito usado, ele parecerá decrépito.
+
+Peitoral do Devoto de Halt(Deusa do Fogo)
+Propriedades:
+	Aprende Idioma Draconico com sotade de Yanti;
+	Incapáz de sentir frio;

@@ -1,0 +1,9 @@
+Arma (Rapieira)
+Origem: Dríade. Este item foi criado por uma dríade, provavelmente como um presente. É invariavelmente feito de madeira e possui poderes de manipulação de plantas, animais ou água.
+Propriedade Principal: Atrativo/Repulsivo. Este item pode ser usado para empurrar, puxar, agarrar ou imobilizar objetos ou criaturas.
+Propriedade Secundária: Olho. Este item permite que seu usuário veja ou ouça através dele. Esta propriedade pode não funcionar se o item estiver muito longe, em um plano de existência diferente ou protegido por magia de abjuração ou chumbo sólido.
+Propriedade Especial: Memórias. Este item contém fragmentos de memória de seu criador ou usuário(s) anterior(es). Ao usá-lo, sintonizado com ele ou dormindo perto dele, seu usuário pode acessar essas memórias ou vê-las em breves flashes.
+
+Benefícios:
+  - Você pode conjurar Chicote de Espinhos como uma ação bônus de acordo com seu nível de proeficiência uma vez por dia;
+  - Você controla vinhas e galhos;

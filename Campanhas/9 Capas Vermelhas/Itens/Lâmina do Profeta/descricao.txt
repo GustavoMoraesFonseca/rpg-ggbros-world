@@ -1,0 +1,14 @@
+Arma (lança)
+Criador: Elfo. O item tem metade do peso normal. É adornado com símbolos da natureza: folhas, vinhas, estrelas e similares.
+História: Profecia. O item faz parte de uma profecia: seu portador está destinado a desempenhar um papel fundamental em eventos futuros. Alguém que deseje desempenhar esse papel pode tentar roubar o item, ou alguém que queira impedir o cumprimento da profecia pode tentar matar o portador do item.
+Propriedade: Brilhante. Este item nunca fica sujo.
+Peculiaridade: Confiante. O item ajuda seu portador a se sentir seguro de si.
+
+Benefícios:
+  +1 de Carisma;
+  - Uma vez por dia você pode re-rolar um ataque que tenha feito com essa arma;
+  - Muito Leve;
+  - Nunca se suja;
+  - Brilha;  
+
+Dano: +1 - d8 + Dex + 1

@@ -1,0 +1,9 @@
+Arma (machado de mão)
+Origem: Gigante da Tempestade. Este item foi criado por um gigante da tempestade, para si próprio ou para um aliado humanoide. É feito de aço, pedras preciosas ou metais preciosos. Se feito para humanoides, pode ser relativamente leve para uma arma gigante, permitindo que criaturas menores o usem em seu tamanho total. É muito provável que possua poderes relacionados a relâmpagos, trovões, tempestades ou clima, e pode ter poderes relacionados a ar, água, voo, natação ou adivinhação.
+Propriedade Secundária: Reativo. Quando o usuário deste item vê um aliado sendo atacado, sofrendo dano ou algum outro gatilho, ele pode usar sua reação para conceder-lhe uma dádiva de algum tipo.
+Propriedade Especial: Chave. Este item é a chave para uma fechadura ou portal selado com magia poderosa.
+
+Benefícios:
+  - Você pode conjurar Golpe Trovejante como uma ação bônus pelo nível de proeficiência por dia;
+  - Você pode respirar embaixo d'agua por 1 hora;
+  - Duas Mãos - +1 - d12 + For + 1;

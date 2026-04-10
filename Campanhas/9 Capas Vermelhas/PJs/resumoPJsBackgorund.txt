@@ -1,29 +1,3 @@
-Tabela
-	Sides:
-		Helsins;
-		Drúidas ativistas;
-	Combate:
-		Membro do Clã Nakamura tentando matar Temujin antes seu clã o ache;
-		Assassinos enviados pela família Rodrigues;
-		Membro do Clã Fritsu enviado para matar remanecentes de Corinthios;
-		Seguidor de Blainengar(Deus do Sangue);
-		Seguidor de Heinfh(Deus da Vingança);
-		Seguidor de Reinstol(Deus da Forja);
-		Monstro do local;
-	RolePlay:
-		Membro do Clã Tarkhan buscando Temujin de volta;
-		Membro do Clã Corinthios perdido;
-		Seraphyne;
-	Eventos:
-		Pé torcido;
-		Chuva estremamente forte;
-		Estrada lamacenta ou Mar agitado;
-		Tédio;
-		Se perdeu na Jornada;
-		Viajante;
-		Quebra do transporte;
-		Vento favorável ou atalho seguro;
-
 Temujin Tarkhan
 	Connections:
 		Pai:

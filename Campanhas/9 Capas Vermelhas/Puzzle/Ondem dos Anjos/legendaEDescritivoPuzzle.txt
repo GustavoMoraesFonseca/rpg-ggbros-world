@@ -24,6 +24,7 @@ Mineiro:
 	qdtMobs: 1
 	descricao:
 	crituras: Underking
+	drops: Picareta Mágica e fragmento de Gathus
 	roomId: 4
 	
 Fazendeiro:
@@ -34,9 +35,11 @@ Fazendeiro:
 	roomId: 5
 	
 Caldeirão:
+	cura: 2d8
 	roomId: 6	
 
 Aventureiro:
+	objetivo: Chegar no Acampamento Abandonado(10) do seu grupo
 	roomId: 7
 	
 Rainha:
@@ -53,7 +56,9 @@ Jardineiro:
 	crituras: Planta Carnivora
 	roomId: 9
 
-roomId: 10
+Acampamento Abandonado:
+	objetivo: Se o Aventureiro for trago aqui ele dá um item mágico e o molde da chave do Underking
+	roomId: 10
 
 Saída:
 	roomId: 11

@@ -1,0 +1,54 @@
+Flauta Corithius
+Uma faluta que foi criado por um mestre artesão e ferreiro. É feito do melhor material disponível, possivelmente até mesmo prata, ouro, platina, mithril ou adamantina. Pode ser habilmente decorado com a iconografia de um clã samurai de homens passaro brancos e possuir grande significado para eles, ou pode ser uma maravilha tecnológica. É muito provável que tenha sido criado para um propósito singular e o cumpra bem.
+Propriedade Principal: Uma vez por dia pode castar uma canção com seu efeito uma vez por dia (Idempendente de quem usa)
+Propriedade Secundária: Leveza.
+Propriedade Especial: Perdido. Este item possui um significado especial para uma pessoa ou grupo que o perdeu e gostaria de vê-lo devolvido.
+
+Cada Família dos Corinthius aprende uma canção:
+
+9 canções:
+
+0 - Canção da Cura
+  - Restauração Menor
+  - Dorean
+  - https://www.youtube.com/watch?v=inlfnfkOq5U
+
+1 - Canção para o Próximo
+  - Ajuda
+  - https://www.youtube.com/watch?v=K5pgYXel4tQ
+
+2 - Canção Guarda do Xogum
+  - Detectar Veneno e Doença
+  - https://www.youtube.com/watch?v=D3NDqpqhLio
+
+3 - Canção Lua Minguante
+  - Acalmar Emoções
+  - https://www.youtube.com/watch?v=__qFOyNey0g
+
+4 - Canção da Confiança
+  - Vitalidade Falsa
+  - https://www.youtube.com/watch?v=lNtYsPT_ETY
+
+5 - Canção Honrado Guerreiro
+  - Aura de Vitalidade
+  - https://www.youtube.com/watch?v=uJKj4PfCdWA
+
+6 - Canção Voz do Xogum
+  - Auxílio Divino
+  - https://www.youtube.com/watch?v=evfD_KoOslc
+
+7 - Canção do Pondeirado
+  - Cerimônia
+  - https://www.youtube.com/watch?v=sC9W3jEgLd0
+  
+8 - Canção do Honrado Líder
+  - Bênção
+  - https://www.youtube.com/watch?v=rXLElBYPfqo
+
+Rêgras da flauta em combate:
+	Você gasta um turno para tocar uma canção(Não importa o que a magia fala),
+  você deve continuar tocando a música até o início do seu próximo turno.
+  
+Como aprender canções:
+	Quando encontrar um membro Corinthius você pode não descansar em um descanso com a criatura que sabe a canção e
+	fazer um teste de Sabedoria CD 20 para aprender, cada tentativa reduz 5 de CD e custa 1h

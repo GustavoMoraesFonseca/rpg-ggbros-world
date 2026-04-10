@@ -1,0 +1,11 @@
+Arma (adaga)
+Criador: Elfo. O item tem metade do peso normal. É adornado com símbolos da natureza: folhas, vinhas, estrelas e similares.
+História: Sinistra. Este item está ligado a um ato de grande maldade, como um massacre ou um assassinato. Pode ter um nome ou estar intimamente associado a um vilão que o usou. Qualquer pessoa familiarizada com a história do item provavelmente o tratará, assim como seu dono, com suspeita.
+Propriedade: Guardião. O item sussurra avisos ao seu portador, concedendo um bônus de +2 na iniciativa se o portador não estiver incapacitado.
+Peculiaridade: Felicidade. Enquanto estiver de posse do item, o portador se sente afortunado e otimista em relação ao futuro. Borboletas e outras criaturas inofensivas podem brincar na presença do item.
+
+
+Benefícios:
+ + 2 de iniciativa;
+ + 1 de Carisma;
+ - Você sempre vai se sentir feliz e sortudo
