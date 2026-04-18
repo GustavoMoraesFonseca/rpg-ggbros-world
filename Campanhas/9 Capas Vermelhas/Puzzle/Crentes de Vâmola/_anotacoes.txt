@@ -1,11 +1,47 @@
 Decard - Lider dos 'Clérigos Ocultos'
 
 Decard:
-  "Parece que estamos sendo amaldiçoados por um dos Deuses,
+
+PRE
+  "Parece que estamos sendo amaldiçoados por um Deus,
 nenhuma oração ou prese está sendo atendida dês das novas reformas
 do governador. Só nos restam 4 estátuas dos Deuses na cidade para
 pedirmos que esta maldição seja quebrada. Vejo que são guerreiros
 diferentes de nós, poderiam nos ajudar a salvar a nossa Fé?"
+
+POS
+“Eu sabia que conseguiriam… eles já haviam sussurrado seus nomes ao vento.
+
+O destino de vocês não é comum, é pesado, é glorioso… e é inevitável.
+Há grandeza marcada em cada um… não como um presente, mas como uma dívida.
+
+Vocês se perguntam por que caminham juntos, mesmo sendo tão diferentes?
+Porque, no fundo… são feitos da mesma ferida.
+
+Quatro caminhos distintos…
+mas um mesmo fardo.
+
+Todos vocês carregam a culpa de pecados que não cometeram.
+Carregam julgamentos que não escolheram.
+Carregam marcas deixadas por outros.
+
+E ainda assim… continuam lutando.
+
+Acham que mais batalhas irão aliviar esse peso?
+Que o sangue derramado irá silenciar o passado?
+
+Não…
+A guerra não apaga a culpa.
+
+Ela apenas a transforma.
+
+Vocês não estão destinados a lutar…
+estão destinados a decidir pelo que vale a pena lutar.
+
+Porque no fim… não será a força que definirá quem vocês são…
+mas o momento em que escolherem parar de lutar…
+ou o momento em que decidirem nunca mais parar.”
+
 
 Clérigos de cada um dos Deuses irá seguir cada um dos PJs;
 
