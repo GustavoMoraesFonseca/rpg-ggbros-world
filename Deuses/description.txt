@@ -1,0 +1,35 @@
+| Nome        | Já foi Mortal? | Definição                         | Raça                | Classe         | Quem Criou?          | Alinhamento | Plano |
+| ----------- | -------------- | --------------------------------- | ------------------- | -------------- | -------------------- | ----------- | -----------
+| Poder       | Não            | Essência do Universo              | —                   | —              | —                    | Neutro      | -
+| Etforsátika | Não            | Deus do Inferno                   | —                   | —              | Arsuez               | Caótico     | Inferno
+| Arsuez      | Não            | Deus dos Deuses                   | —                   | —              | Poder                | Bom         | Céu
+| Htoht       | Não            | Deus da Vida e Sabedoria          | —                   | —              | Arsuez               | Bom         | Céu
+| Faluscia    | Não            | Deusa da Segunda Chance           | —                   | —              | Arsuez               | Bom         | Céu
+| Oisinóid    | Não            | Deus da Gandaia                   | —                   | —              | Arsuez               | Bom         | Céu
+| Simêt       | Não            | Deusa da Justiça                  | —                   | —              | Arsuez               | Bom         | Céu
+| Nídur       | Sim            | Deusa da Morte                    | Elfo                | Necromante     | Etforsátika          | Caótico     | Vazio
+| Hávadir     | Sim            | Deus da Destruição e Medo         | Dragonborn Vermelho | Bárbaro        | Etforsátika          | Caótico     | Vazio
+| Heinfh      | Sim            | Deus da Vingança                  | Meio-Orc            | Paladino       | Etforsátika          | Caótico     | Vazio
+| Bleitur     | Sim            | Deus da Água                      | Tritão              | Monge          | Htoht                | Bom         |
+| Joro        | Sim            | Deus da Terra                     | Anão da Montanha    | Monge          | Htoht                | Bom         |
+| Vasviri     | Sim            | Deusa do Ar                       | Aarakocra           | Monge          | Htoht                | Bom         |
+| Halt        | Sim            | Deusa do Fogo                     | Yuan-ti             | Monge          | Htoht                | Bom         |
+| Blainengar  | Sim            | Deus do Sangue                    | Orc                 | Bárbaro        | Faluscia             | Caótico     |
+| Yagami      | Sim            | Deusa da Luz                      | Humana              | Clériga da Luz | Faluscia             | Bom         |
+| Diralif     | Sim            | Deusa da Natureza                 | Elfo da Floresta    | Druida         | Faluscia             | Bom         |
+| Frivur      | Sim            | Deus da Paz                       | Elfo                | Monge          | Faluscia             | Bom         |
+| Seline      | Sim            | Deusa da Lua                      | Elfo                | Druida         | Faluscia             | Bom         |
+| Torina      | Sim            | Deusa da Tempestade e Fertilidade | Humano              | Clériga        | Faluscia             | Bom         |
+| Mynstra     | Sim            | Deusa da Magia                    | Elfo                | Feiticeiro     | Faluscia             | Bom         |
+| Reinstol    | Sim            | Deus da Forja                     | Gnomo               | Artífice       | Faluscia             | Neutro      |
+| Áfornys     | Sim            | Deusa do Amor                     | Meio-Elfa           | Barda          | Oisinóid             | Bom         |
+| Gathus      | Sim            | Deus da Riqueza                   | Humano              | Guerreiro      | Oisinóid             | Bom         |
+| Mândrokus   | Sim            | Deus do Crime e Blefe             | Elfo                | Ladino         | Oisinóid             | Caótico     |
+| Fooitus     | Sim            | Deus da Batalha                   | Elfo                | Guerreiro      | Oisinóid             | Neutro      |
+| Cornóvus    | Sim            | Deus da Tristeza e Bebida         | Anão                | Bárbaro        | Oisinóid             | Neutro      |
+| Církus      | Sim            | Deus da Doença e Maldição         | Humano              | Bruxo          | Oisinóid             | Neutro      |
+| Bânbada     | Sim            | Deusa da Ganância                 | Drow                | Ladina         | Oisinóid             | Caótico     |
+| Gehagges    | Sim            | Deusa da Inveja                   | Drow                | Feiticeira     | Oisinóid             | Caótico     |
+| Astafar     | Sim            | Deus da Fúria                     | Elfo                | Bárbaro        | Gehagges + Fooitus   | Neutro      |
+| Brotufur    | Sim            | Deus da Oportunidade              | Elfo                | Ladino         | Gehagges + Gathus    | Neutro      |
+| Cifirur     | Sim            | Deus da Mentira                   | Elfo                | Ladino         | Gehagges + Mândrokus | Caótico     |
